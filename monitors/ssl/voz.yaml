@@ -1,0 +1,7 @@
+ssl:
+  - name: VOZF - SSL Certificate Expiration - voz.vn
+    host: voz.vn
+    port: 443
+    tags:
+      - service:voz
+      - env:production

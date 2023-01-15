@@ -1,0 +1,6 @@
+monitors:
+  - name: VOZF - voz.vn
+    url: https://voz.vn
+    tags:
+      - env:production
+      - service:voz
